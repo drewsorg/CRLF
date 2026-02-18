@@ -1,0 +1,10 @@
+# Line 1: Docker Ignore Rules
+node_modules/
+.git/
+.env
+*.md
+Dockerfile
+docker-compose.yml
+.github/
+tests/
+# Line 10: End of .dockerignore file

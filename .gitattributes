@@ -1,0 +1,4 @@
+# Prevent Git from auto-normalizing line endings in this repository.
+# This is intentional — the "All LF" and "All CRLF" folders contain
+# files with specific line ending styles for testing purposes.
+* -text

@@ -1,0 +1,10 @@
+{
+  "name": "sample-project",
+  "version": "1.0.0",
+  "description": "A sample JSON file with exactly 10 lines",
+  "main": "index.js",
+  "author": "Line 6: Test Author",
+  "license": "MIT",
+  "keywords": ["sample", "test", "crlf"],
+  "private": true
+}

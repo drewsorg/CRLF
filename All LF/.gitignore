@@ -1,0 +1,10 @@
+# Line 1: Git Ignore Rules
+node_modules/
+dist/
+.env.local
+*.log
+coverage/
+.DS_Store
+build/
+tmp/
+# Line 10: End of .gitignore file
